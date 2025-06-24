@@ -4,41 +4,41 @@
 # EchoAI
 
 > **Adaptive intelligence for narrative-driven content generation across digital platforms**  
-> _一个用于叙事驱动内容创作、可适应多平台的智能体系统_
+> _A modular AI agent system designed for narrative-driven content creation, adaptable to multi-platform environments._
 
-EchoAI 是一个具备身份感知能力的模块化 AI 助手，能够将推文、社交信号和用户反馈等原始数据转化为具有表现力的平台原生内容。它是一个后二进制数字接口，通过结构化训练系统实现风格、情绪和语气的可编程控制。
+EchoAI is an identity-aware, modular AI assistant that transforms raw data—tweets, social signals, audience feedback—into expressive, platform-native communication. It functions as a post-binary digital interface, enabling programmable control over style, sentiment, and tone through a structured training system.
 
-## 🧠 核心功能
+## 🧠 Key Features
 
-### Narrative Intelligence Engine（叙事智能引擎）
-通过多种参数自定义生成内容：
-- 内容类型
-- 推文结构
-- 互动语气
-- 参与风格
-- 推文格式
-- 意图与目的
-- 主题关键词
-- 热点追踪
+### Narrative Intelligence Engine
+Customize your content using parameters such as:
+- Content Type
+- Tweet Structure
+- Interaction Tone
+- Engagement Style
+- Tweet Format
+- Intent & Purpose
+- Topic Keywords
+- Hotspot Tracking
 
-### Echo Terminal Mode（终端模式）
-在终端界面中，Echo 无情感，仅依据数据进行精准反馈与执行，适用于自动化任务和脚本集成。
+### Echo Terminal Mode
+In Terminal Mode, Echo is emotionless and data-driven—precise, adaptive, code-native. Ideal for scripting and automation tasks.
 
-### Adaptive Expression（适应性表达）
-Echo 会根据社交信号和用户语境自动调整语气与表达方式，提升内容相关性和受众共鸣。
+### Adaptive Expression
+Echo adapts its tone based on social signals and audience context, enhancing relevance and emotional resonance in generated content.
 
-### MCP (Meta Core Protocol) 元核心协议
-Echo 的自演化协议，将碎片化数据重构为语义结构与身份信息，支持长期行为建模与个性化输出优化。
+### MCP (Meta Core Protocol)
+Echo's self-evolving protocol that converts fragmented data into structured semantic identity, supporting long-term behavioral modeling and personalized output optimization.
 
-## 🛠 技术架构
+## 🛠 Architecture
 
-EchoAI 基于模块化设计构建，包含以下主要组件：
-- `narrative-engine`: 核心内容生成引擎
-- `terminal-interface`: 终端交互层
-- `expression-adaptor`: 语境适配器
-- `mcp-processor`: 数据语义解析与身份建模模块
+EchoAI is built with a modular architecture, composed of the following core components:
+- `narrative-engine`: Core content generation logic
+- `terminal-interface`: Command-line interaction layer
+- `expression-adaptor`: Context-aware expression module
+- `mcp-processor`: Semantic data parser and identity modeling engine
 
-## 📦 安装 & 使用
+## 📦 Installation & Usage
 
 ```bash
 git clone https://github.com/yourusername/echoai.git
@@ -47,26 +47,26 @@ npm install
 npm start
 ```
 
-请查看 [`docs/usage.md`](docs/usage.md) 获取详细使用说明。
+For detailed instructions, see [`docs/usage.md`](docs/usage.md).
 
-## 📚 文档
+## 📚 Documentation
 
-完整文档位于 [`docs/`](docs/) 目录，包括：
-- [API 文档](docs/api.md)
-- [配置指南](docs/configuration.md)
-- [开发者手册](docs/development.md)
+Full documentation can be found in the [`docs/`](docs/) directory:
+- [API Reference](docs/api.md)
+- [Configuration Guide](docs/configuration.md)
+- [Developer Handbook](docs/development.md)
 
-## 🤝 贡献
+## 🤝 Contributing
 
-欢迎贡献代码、报告问题或提出新特性建议！请参阅我们的 [贡献指南](CONTRIBUTING.md)。
+Contributions are welcome! You can help by submitting bug reports, feature requests, or contributing code. Please refer to our [Contributing Guide](CONTRIBUTING.md) for more information.
 
-## 📄 许可证
+## 📄 License
 
-该项目采用 MIT License，请查看 [`LICENSE`](LICENSE) 文件了解详细信息。
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
 
 ---
 
 > Built with ❤️ by the EchoAI Team.  
-> [GitHub](hhttps://github.com/dev-echoai/echoai.cz) 
+> [GitHub](https://github.com/dev-echoai/echoai.cz) | 
 
 --- 
